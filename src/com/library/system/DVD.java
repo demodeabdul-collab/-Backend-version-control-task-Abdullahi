@@ -19,7 +19,7 @@ public class DVD extends LibraryItem implements Borrowable, Reservable{
     
      @Override
      public double calculateFine(int daysLate){
-        return 1*daysLate;
+        return 1.5*daysLate;
      }
 
       @Override
