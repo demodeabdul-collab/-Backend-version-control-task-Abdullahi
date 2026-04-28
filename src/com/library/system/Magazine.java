@@ -18,7 +18,7 @@ public class Magazine extends LibraryItem implements Borrowable {
 
     @Override
     public double calculateFine(int daysLate) {
-        return 0.25 * daysLate;
+        return 0.7 * daysLate;
     }
 
     @Override

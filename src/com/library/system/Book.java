@@ -16,7 +16,7 @@ public class Book extends LibraryItem implements Borrowable, Reservable{
 
     @Override
     public double calculateFine(int daysLate){
-        return 0.5* daysLate;
+        return 1* daysLate;
     }
     
     @Override
