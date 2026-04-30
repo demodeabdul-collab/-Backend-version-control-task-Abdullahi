@@ -1,18 +1,12 @@
-## Getting Started
+I created 2 branches namely;
+1.Update fine: increased the lateness fee for book,magazine and dvd
+2.Edit read me : changing the readme details to reflect the instructions on the template
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Git commands frequently used were;
+1.git add .(staging files).
+2.git commit -m "commit message"(tocommit files).
+3.git checkout [Branchname] (to swictch branches).
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Some lessons learnt along the way were;
+1.The use of Git to track changes in code and documents.
+2.How companies use git as a version control tool and collaborative tool 
